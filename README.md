@@ -136,7 +136,7 @@ public Form1()
 
 ## Yor group color:
 
-![](./name-color-map.png.png)
+![](./name-color-map.png)
 
 
 ## Link for your questions:
