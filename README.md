@@ -67,9 +67,9 @@ private bool GenBool()
 ---
 
 
-## Evaluation
+## Evaluation (for Evaluator/Checker only)
 
-The evaluator/checker will run your code like this:
+The evaluator/checker will copy, paste and run your code like this:
 
 ```C#
 
