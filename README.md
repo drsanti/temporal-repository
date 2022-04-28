@@ -8,6 +8,8 @@
 
 - You have 25 minutes to complete the two.
 
+- You must follow the given requirements (`-2` per wrong point).
+
 - Submit your codes into the provided google form.
 
 - When time-out, the submission system will close automatically.
@@ -134,10 +136,6 @@ public Form1()
 
 ---
 
-## Yor group color:
-
-![](./name-color-map.png)
-
 
 ## Link for your questions:
 
@@ -155,3 +153,6 @@ https://forms.gle/BV7xH1JpoXhqQjgL6
 
 ---
 
+## Yor group color:
+
+![](./name-color-map.png)
