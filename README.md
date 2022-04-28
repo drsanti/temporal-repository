@@ -18,7 +18,7 @@
 
 ---
 
-## How to complete your code?:
+## How to complete your code?
 
 Write you code in the given template.
 
@@ -42,7 +42,7 @@ Write you code in the given template.
 
 ---
 
-## How to submit your code?:
+## How to submit your code?
 
 Copy all lines of your code including the `Variable Start` and `Method End` lines, and paste into the given google form.  
 
@@ -134,6 +134,11 @@ public Form1()
 
 ---
 
+## Yor group color:
+
+![](./name-color-map.png.png)
+
+
 ## Link for your questions:
 
 🔴 [Questions for RED](https://github.com/drsanti/temporal-repository/blob/main/G1-RED/Questions.md)
@@ -149,3 +154,4 @@ public Form1()
 https://forms.gle/BV7xH1JpoXhqQjgL6
 
 ---
+
