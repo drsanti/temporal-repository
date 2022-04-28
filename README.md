@@ -30,14 +30,14 @@ Write you code in the given template.
 ``` C#
 //--- Variable Start -------------------------
 
-//>> REPLACE THIS LINE BY YOUR VARIABLE HERE
+//>> REPLACE THIS LINE WITH YOUR VARIABLE HERE
 
 //--- Variable End ---------------------------
 
 
 //--- Method Start ---------------------------
 
-//>> REPLACE THIS LINE BY YOUR METHOD HERE
+//>> REPLACE THIS LINE WITH YOUR METHOD HERE
 
 //--- Method End -----------------------------
 ```
