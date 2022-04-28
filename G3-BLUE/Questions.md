@@ -20,7 +20,7 @@ Write a method named "GenRealNumbers" to generate and return random real numbers
 
 - Takes/receives one parameter named "maximum". This parameter represents the maximum possible value of generated data.
 
-- Randomly generates 55 points/items of real numbers in the range of [-5.0, maxVal] (-5.0 to the value defined by the "maxVal"). 
+- Randomly generates 55 points/items of real numbers in the range of [-5.0, maximum] (-5.0 to the value defined by the "maximum"). 
 
 - Returns an array of generated data.
 
