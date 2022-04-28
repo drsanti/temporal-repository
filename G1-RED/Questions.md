@@ -1,6 +1,6 @@
-# `RED`
+# 🟥 `RED`
 
-## `Problem #1`
+## `Question #1`
 
 ### `Instructions:`
 Write a method named "GenInt" to generate and return random integers. The following are the requirements of the method:
@@ -13,7 +13,7 @@ Write a method named "GenInt" to generate and return random integers. The follow
 
 ---
 
-## `Problem #2`
+## `Question #2`
 
 ### `Instructions:`
 Write a method named "GenFloat" to generate and return random real numbers. The following are the requirements of the method:

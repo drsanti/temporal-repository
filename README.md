@@ -1,4 +1,24 @@
-# Guidelines:
+# INC362 Programming Skill Evaluation #1
+
+## Instructions:
+
+- There are two questions.
+
+- Each question gives you 5 points.
+
+- You have 25 minutes to complete the two.
+
+- Submit your codes into the provided google form.
+
+- When time-out, the submission system will close automatically.
+
+- ALL communication are not allowed. `DO NOT CHEAT!!`.
+
+---
+
+## How to complete your code?:
+
+Write you code in the given template.
 
 
 `Template`
@@ -20,6 +40,16 @@
 
 ---
 
+## How to submit your code?:
+
+Copy all lines of your code including the `Variable Start` and `Method End` lines, and paste into the given google form.  
+
+---
+
+## How the committee evaluate/check your code?
+All lines of you code will be copied, pasted and executed to check all requirements and result.
+
+
 `Evaluation`
 
 Your method will be called from the Form1 constructor as show below.
@@ -40,7 +70,7 @@ public Form1()
 
 ---
 
-# Example:
+## Example:
 
 **Question:** Write a method named "GenBool" to generate and return a boolean data.
 
@@ -99,3 +129,15 @@ public Form1()
     bool data = GenBool();
 }
 ```
+
+---
+
+## Link for your questions:
+
+🔴 [Questions for RED](https://github.com/drsanti/temporal-repository/blob/main/G1-RED/Questions.md)
+
+🟢 [Questions for GREEN](https://github.com/drsanti/temporal-repository/blob/main/G2-GREEN/Questions.md)
+
+🔵 [Questions for BLUE](https://github.com/drsanti/temporal-repository/blob/main/G2-BLUE/Questions.md)
+
+---

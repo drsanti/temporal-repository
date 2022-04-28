@@ -1,6 +1,6 @@
-# `BLUE`
+# 🟦 `BLUE`
 
-## `Problem #1`
+## `Question #1`
 
 ### `Instructions:`
 Write a method named "GenIntData" to generate and return random integers. The following are the requirements of the method:
@@ -13,7 +13,7 @@ Write a method named "GenIntData" to generate and return random integers. The fo
 
 ---
 
-## `Problem #2`
+## `Question #2`
 
 ### `Instructions:`
 Write a method named "GenRealNumbers" to generate and return random real numbers. The following are the requirements of the method:
