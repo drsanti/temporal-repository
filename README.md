@@ -14,6 +14,8 @@
 
 - ALL communication are not allowed. `DO NOT CHEAT!!`.
 
+- `WARNING:` Your screen will be continuously monitored by system and/or committee.
+
 ---
 
 ## How to complete your code?:
@@ -139,5 +141,11 @@ public Form1()
 🟢 [Questions for GREEN](https://github.com/drsanti/temporal-repository/blob/main/G2-GREEN/Questions.md)
 
 🔵 [Questions for BLUE](https://github.com/drsanti/temporal-repository/blob/main/G2-BLUE/Questions.md)
+
+---
+
+## Link for Submission:
+
+https://forms.gle/BV7xH1JpoXhqQjgL6
 
 ---
