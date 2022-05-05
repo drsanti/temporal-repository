@@ -8,11 +8,11 @@
 
 - You have 25 minutes to complete the two.
 
-- You must follow the given requirements (`-2` per wrong point).
+- You must follow the given requirements (`-2` per mistake).
 
-- Submit your codes into the provided google form.
+- Submit your codes into the provided Google Form.
 
-- When time-out, the submission system will close automatically.
+- When time-out, the submission system will be closed automatically.
 
 - ALL communication are not allowed. `DO NOT CHEAT!!`.
 
@@ -50,7 +50,7 @@ Copy all lines of your code including the `Variable Start` and `Method End` line
 
 ---
 
-## How the committee evaluate/check your code?
+## How the committee will evaluate/check your code?
 All lines of you code will be copied, pasted and executed to check all requirements and result.
 
 
@@ -154,5 +154,7 @@ https://forms.gle/BV7xH1JpoXhqQjgL6
 ---
 
 ## Yor group color:
+
+> Used for `06 May 2022` only.
 
 ![](./name-color-map.png)
